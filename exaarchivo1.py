@@ -50,3 +50,5 @@ def ahorcado():
 
 if __name__ == "__main__":
     ahorcado()
+
+##José Diego Niebla Inzunza 22/03/24
